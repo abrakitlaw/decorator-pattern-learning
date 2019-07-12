@@ -13,4 +13,8 @@ But after they try to design their system to support the requirement nowdays, he
 
 It is pretty obvious that Starbuzz has created a maintenance nightmare for themselves. What happens when the price of milk goes up? what do the do when they add a new caramel topping?
 
-We can think of decorator objects as "wrappers"
+We can think of decorator objects as "wrappers". Below is framework of decorator pattern that we can implemented to Starbuzz beverages.
+![alt text](https://github.com/abrakitlaw/decorator-pattern-learning/blob/master/Screenshot%202019-07-12%20at%2014.40.56.png)
+
+And after this is the diagram that already implemented to Starbuzz bussiness requirement.
+![alt text](https://github.com/abrakitlaw/decorator-pattern-learning/blob/master/Screenshot%202019-07-12%20at%2014.43.58.png)
